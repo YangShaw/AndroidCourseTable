@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_summer"
+        android:title="夏季作息时间"/>
+
+    <item
+        android:id="@+id/item_winter"
+        android:title="冬季作息时间"/>
+
+    <item
+        android:id="@+id/item_notice"
+        android:title="开启上课提醒"/>
+
+    <item
+        android:id="@+id/item_logout"
+        android:title="注销"/>
+
+    <item
+        android:id="@+id/item_finish"
+        android:title="退出"/>
+
+</menu>
